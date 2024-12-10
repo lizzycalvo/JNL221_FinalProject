@@ -1,0 +1,50 @@
+#assign_header {
+	background-color:#de6891;
+	color: white;
+	font-family: serif;
+	padding-top: 12px;
+	padding-bottom: 12px;
+	margin-bottom: 18px;
+}
+
+#assign_header h4 {
+	margin-bottom: 0px;
+}
+ 
+.caption {
+	font-size: 14px;
+	color: gray;
+	margin-top: 8px;
+}
+
+.container{
+    background-color:#fffafc;
+}
+
+p{
+	font-family: serif;
+	font-size: 20px;
+}
+
+h3{
+	font-family: sans-serif;
+	font-size: 45px;
+	color: #de6891;
+	font-weight: bold;
+}
+
+h5{
+	font-family: serif;
+	font-size: 35px;
+}
+
+h4{
+	font-family: serif;
+	font-size: 50px;
+	font-weight: bold;
+}
+
+h1{
+	font-family: serif;
+	font-size: 100px;
+}
